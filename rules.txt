@@ -1,0 +1,6 @@
+This is my first project by using the software requriements 
+
+1.python
+2.django
+3.tkinker
+
